@@ -6,12 +6,12 @@
 
 {{ .Content }}
 
-<ul>
+<ol>
   {{ range .Pages }}
   <li>
     <a href="{{ .RelPermalink }}">{{ .Title }}</a>
   </li>
   {{ end }}
-</ul>
+</ol>
 
 {{ partial "footer.html" . }}

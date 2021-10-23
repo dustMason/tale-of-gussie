@@ -1,6 +1,7 @@
 ---
 Title: My Mother, Dora Shevach Paster
 Subtitle: (1889 - 1964)
+Weight: 30
 ---
 
 Mom’s life on the farm was hard. With eight children and the struggle to make ends meet, she worked from sunup to sundown, and sometimes late into the evening. She had a lot of stress and was often not a happy person. She may have had miscarriage(s). And two of her children died – one as a teen, the other as a young adult. More on that later.
@@ -16,3 +17,6 @@ The farm was a summer resort for all the cousins to come visit. Later, two of Be
 My mother’s grandparents, Boris and Esther Kletnisky, were born mid-1800s in Bialystok, which at that time was part of Russia. Their daughter Ethel married Joseph Shevach. These were my grandparents who we think lived in the vicinity of Minsk. When Ethel died in childbirth, Joseph remarried. The kids were not part of Joseph’s plan for a new life. He took off for Palestine with his new wife. The kids, including my mother Dora, were farmed out to relatives. Dora ended up in the States with her cousins, the Ephron’s.
 
 My mother met my father at a summer resort in Moosup, Connecticut. They were married in 1911 or 1912. I wish I could say “happily ever after”, but life on the farm was physically demanding and there was no rest until many, many years later when my parents left the farm and moved to California.
+
+
+![Circa 1940s](/images/1940s.jpg "Abe, My Mother & Father, Ike")

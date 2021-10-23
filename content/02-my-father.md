@@ -1,6 +1,7 @@
 ---
 Title: My Father, Morris Paster
 Subtitle: (1891 - 1992)
+Weight: 20
 ---
 
 My father was a hale and hearty man who worked hard on our dairy farm. In addition to the herd of dairy cows, we had a bull, a work horse, and sometimes, chickens.

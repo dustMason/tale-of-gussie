@@ -1,5 +1,6 @@
 ---
 Title: My Childhood
+Weight: 10
 ---
 
 As a kid, I often hid on “my” rock atop a forested hill overlooking my home and the surrounding farmland. I would spy on the stick figures below, my father and brothers hard at work on the farm.  I don’t think anyone could see me. At least that’s what I chose to believe. Perched on my rock, I daydreamed about having friends, of learning more about the world outside of the farm, of having a different kind of family. The things little kids think about.
