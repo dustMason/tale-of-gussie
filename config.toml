@@ -2,7 +2,6 @@ baseURL = "https://sitkinfamily.com"
 languageCode = "en"
 DefaultContentLanguage = "en"
 title = "The 100 year (and counting) Tale of Gussie Paster Sitkin"
-theme = "clement"
 
 [markup.goldmark.renderer]
   unsafe = true # Allow HTML in md files
