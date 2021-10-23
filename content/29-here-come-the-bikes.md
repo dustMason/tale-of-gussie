@@ -12,11 +12,3 @@ Another bicyclist entered out lives, Benita Chaum. I met her at the Co-op Nurser
 ![1996, The Hiking, Biking, Wining, Dining Gang](/images/1996-friends.jpg "Left to right: Toby Singer, me, Jerry and Benita Chaum, the Ewings (seated), Fritzi & Cal Davis, Sid Singer")
 
 ![2015. Benita Chaum and I](/images/benita.jpg)
-
-
-
-
-
-
-
-
