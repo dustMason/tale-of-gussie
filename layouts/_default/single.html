@@ -10,13 +10,13 @@
 
 <div class="prev-page">
     {{ if .PrevPage }}
-    <a href="{{ .PrevPage.Permalink }}?ref=footer">{{ .PrevPage.Title | truncate 50 "..."}} »</a>
+    <a href="{{ .PrevPage.RelPermalink }}">{{ .PrevPage.Title | truncate 50 "..."}} »</a>
     {{ end }}
 </div>
 
 <div class="next-page">
     {{ if .NextPage }}
-    <a href="{{ .NextPage.Permalink }}?ref=footer">« {{ .NextPage.Title | truncate 50 "..." }}</a>
+    <a href="{{ .NextPage.RelPermalink }}">« {{ .NextPage.Title | truncate 50 "..." }}</a>
     {{ end }}
 </div>
 
