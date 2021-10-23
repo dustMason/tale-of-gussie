@@ -3,16 +3,13 @@ Title: Honeymooners
 Weight: 210
 ---
 
-Honeymooners
 Joe and I honeymooned at a resort in the mountains in upstate New York. There was some nervousness and tension as neither Joe, nor I had any experience with intimate relationships. We apparently managed just fine.
 
 For outdoor activities on our honeymoon, Joe was thrilled about riding an old single speed bicycle at full speed down a hill. I sat terrified at the top of the hill, but Joe convinced me to “just let go!”.  Down I went, holding on for dear life and trying to avoid going over the fence on the side of the road. The old bike had brakes, but you had to pedal backwards to apply them. Not something I wanted to do while going so fast. It was a crazy, crazy experience.
 
-1945, Honeymoon
+![1945, Honeymoon](/images/honeymoon-1.jpg)
 
-
-1945, Honeymoon
-
+![1945, Honeymoon](/images/honeymoon-2.jpg)
 
 # The Honeymoon is Over
 
@@ -28,6 +25,4 @@ One time, Joe and I won a waltz contest. Yes, you read that correctly. 30 or so 
 
 The apartment in Lebanon was the first place we had together where the entire space was ours. I tried to adapt to married life quickly. Learning to be with someone on a constant basis and learning how to live with someone in close quarters was challenging. I had to be on tap, able to discuss things all the time. A learning experience par excellence!
 
-1945, Lebanon, Pennsylvania
-
-Me, in the bustling town
+![1945, Lebanon, Pennsylvania](/images/lebanon-pa.jpg "Me, in the bustling town")

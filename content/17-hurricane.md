@@ -16,12 +16,10 @@ In the days after the hurricane, we tried to rescue as many personal possessions
 
 A year after the hurricane, our new home was finally ready.  Quite modern for those days, a happy upgrade from our old drafty house. We had a real heating system with radiators – although there were no radiators in the bedrooms or the dining room. Still, it was heaven to have a radiator in the upstairs bathroom. We had an indoor toilet, a gas stove in the kitchen, and hot and cold running water.  The kitchen was large just like in the old house and was always the place where we all gathered. Off the kitchen, there was a tiny bathroom with a toilet and a sink. You could enter the house from the side and go directly to the bathroom to wash up before entering the main house. The men could clean up after the day’s work and not track mud and dirt all throughout the house. This was a joy for my mother.
 
-The farmhouse as it is today (pic taken in 2012)
-
+![The farmhouse as it is today (pic taken in 2012)](/images/farmhouse-today.jpg)
 
 My parents had a bedroom downstairs and the rest of us slept upstairs. The stairs leading up to the bedrooms had a shiny baluster that the boys often slid down. I had to share a room and a bed with Ceil. I wasn’t too happy about that situation! But around that same time, I started college and stayed in the dorms for part of the year.
 
-Paster Road still exists (pic taken in 2012)
+![Paster Road still exists (pic taken in 2012)](/images/paster-road.jpg)
 
-
-Looking out one of the farmhouse windows (pic taken in 2012)
+![Looking out one of the farmhouse windows (pic taken in 2012)](/images/farmhouse-window.jpg)

@@ -7,7 +7,6 @@ After Joe separated from the service in February of 1946, we moved in with Joe�
 
 My sister Ceil invited herself to come with us. She was squeezed into the backseat of the car in-between our possessions. She didn’t mind that. But we didn’t have enough money to get two hotel rooms at night. Ceil insisted she didn’t want Joe and I sleeping together while she was in the room, so I ended up sharing a bed with Ceil and Joe slept in the other bed. It took us about a week to get cross country – including an extra day in Beaumont, Texas when the car needed repairs. Joe and I were glad to get to California. Once in California, Ceil left us to room with an old friend of mine who had moved out to California.
 
-Cross Country Chevy
+![Cross Country Chevy](/images/cross-country-chevy.jpg)
 
-
-Ceil and I on the cross-country trip
+![Ceil and I on the cross-country trip](/images/shenandoah.jpg)

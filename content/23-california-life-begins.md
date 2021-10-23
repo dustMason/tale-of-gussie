@@ -9,33 +9,15 @@ We were robbed once. Someone broke through a window and stole cash from my desk.
 
 Despite our busy days trying to get a business going to support ourselves, we found time to play. Walking on the beach, playing horseshoes, visiting the observatory on Mt. Palomar – these were all things that were fun, and we could do on the cheap.
 
-Ever fashionable, 1948
+![Ever fashionable, 1948](/images/fashionable.jpg)
 
+![My mother, me, Joe, my father, 1948](/images/1948-family.jpg)
 
+![1948, Los Angeles](/images/1948-los-angeles-1.jpg)
+![](/images/1948-los-angeles-2.jpg "Playing horseshoes")
 
+![1948, Santa Monica, Joe and I](/images/1948-santa-monica.jpg)
 
+![1949, Newport Beach, Joe and I](/images/1949-newport.jpg)
 
-
-
-
-My mother, me, Joe, my father, 1948
-
-
-
-1948, Los Angeles
-
-Playing horseshoes
-
-
-1948, Santa Monica, Joe and I
-
-
-
-1949, Newport Beach, Joe and I
-
-
-
-1949 Me at Mt. Palomar
-
-
-
+![1949 Me at Mt. Palomar](/images/mt-palomar.jpg)

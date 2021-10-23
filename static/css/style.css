@@ -18,6 +18,10 @@ body {
   border-radius: 5px;
 }
 .menu, .article-meta, footer { text-align: center; }
+h1 {
+  text-align: center;
+  line-height: 1.2em;
+}
 .title { 
   font-size: 1.1em;
 }

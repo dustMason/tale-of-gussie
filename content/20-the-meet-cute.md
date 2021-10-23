@@ -8,20 +8,18 @@ The year is 1944, World War II is still raging, I’ve graduated from college an
 Joe was working as an army radar repair man on the base in New London. He would hitchhike from New London to Norwich to see me, no matter the harsh winter weather. He would meet me at my sister Esther’s house where we would sit around and talk and listen to the radio. Sometimes we met downtown for dinner or a movie. Joe would often end up hitchhiking back to New London at 11 or 12 at night. It’s just what people did in those days.
 
 Joe loved the Paster farm. I think he would have been happy if I’d inherited it. He always helped with some project while he was there. My parents loved him for that. On one visit, Joe was helping string telephone wire and didn’t realize he was standing in a patch of poison ivy. That was a mess!
-Winter 1944/45, on the farm
 
-Joe loved learning new skills
+![Winter 1944/45, on the farm](/images/skiing-on-the-farm.jpg "Joe loved learning new skills")
 
 In the early days of April 1945, Joe telephoned me with a proposal. “I might be getting shipped overseas – how about we get married?”  I didn’t even take a breath before I said yes. I hadn’t been thinking about love until the moment he proposed – and then I realized. I loved this man.
 
 The engagement was short – as were many engagements during war time. Before the wedding, Joe’s whole family came to visit the farm so the families could get to know each other.
 
-
+![](/images/engagement.jpg)
 
 The wedding took place in Hartford only 2 or 3 weeks after Joe’s proposal.  Hartford because it was easy for most relatives to get to. My parents did an amazing job of putting the wedding together on such short notice.
 
-The Newlywed Couple, April 22, 1945
-
+![The Newlywed Couple, April 22, 1945](/images/newlywed-couple.jpg)
 
 The wedding venue was in the upstairs area of a dance hall. A caterer provided tasty kosher food. The wedding was to occur during Passover when weddings are normally not allowed. My mother was able to find a Rabbi who gave special dispensation for the wartime wedding.
 

@@ -10,11 +10,9 @@ I attended Willimantic State Teacher’s College for four years on a full schola
 
 At college, I was exposed to students from different financial backgrounds, different places, and with different personalities. There wasn’t, however, much racial diversity. I remember one dynamic black woman. That’s all.
 
-1941, Dreamy college girl
+![1941, Dreamy college girl](/images/dreamy-college-girl.jpg)
 
-
-Early 1940’s
-
+![Early 1940s](/images/early-1940s.jpg)
 
 In high school I was a loner, but in college I was thrust into groups where I was expected to talk. At the dorm, students congregated in the rec room where you could listen to the radio or the Victrola, play games (like ping pong, checkers, chess), and chat. I would much rather listen than talk but I did eventually get better at mingling. I always sat with my friends: my roommate Virgene (Jean) Sullivan and another young woman named Ann Nahas. Jean, Ann, and I became quite the trio.
 
@@ -37,22 +35,17 @@ My second student teaching assignment was more of a success. The class was a 1st
 
 After nearly four years of college classes and new experiences, I graduated in April 1943. The final semester was cut short by a couple of months because of the war. Most of the men had enlisted in the military. More women were needed to teach at all levels. My first job after college was in Voluntown as a Kindergarten (morning) and 1st grade teacher (afternoon). I was filling in for a man who left for service.
 
-1943, College Grad
+![1943, College Grad](/images/college-grad.jpg)
 
+![My 50th Reunion (1993)](/images/50th-reunion.jpg "That’s me at the right, looking up at I don’t know what!")
 
+![My 60th Reunion (2003)](/images/60th-reunion.jpg)
 
+![My 70th Reunion (2013)](/images/70th-reunion.jpg)
 
-My 50th Reunion (1993)
+![](/images/70th-reunion-2.jpg)
 
-That’s me at the right, looking up at I don’t know what!
-
-
-
-My 60th Reunion (2003)
-
-
-My 70th Reunion (2013)
-
+![](/images/70th-reunion-3.jpg)
 
 
 

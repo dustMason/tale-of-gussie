@@ -7,21 +7,12 @@ I met Florence Schneider in a public speaking class at Los Angeles Valley Colleg
 
 Another bicyclist entered out lives, Benita Chaum. I met her at the Co-op Nursery School at the Studio City Park, where Mike and Benita’s son David were enrolled.  Benita and her husband Jerry, and Joe and I became lifelong friends. Through Benita, we met three other couples: the Davis’s, Ewing’s and Toby and Sid Singer. We would join up on a weekend day and hike, bike and dine around the area. The unofficial name of the group became the Riding, Wining, Hiking, Dining group. Everybody was thoroughly happy, but tired at the end of the day.
 
-1991, Near Truckee, California
+![1991, Near Truckee, California](/images/truckee.jpg "Biking trip with Bill and Shanon. We left them in the dust. Or maybe they left us in the dust.")
 
-Biking trip with Bill and Shanon. We left them in the dust.
-Or maybe they left us in the dust.
+![1996, The Hiking, Biking, Wining, Dining Gang](/images/1996-friends.jpg "Left to right: Toby Singer, me, Jerry and Benita Chaum, the Ewings (seated), Fritzi & Cal Davis, Sid Singer")
 
+![2015. Benita Chaum and I](/images/benita.jpg)
 
-
-1996, The Hiking, Biking, Wining, Dining Gang
-
-Left to right: Toby Singer, me, Jerry and Benita Chaum,
-the Ewings (seated), Fritzi & Cal Davis, Sid Singer
-
-
-
-2015. Benita Chaum and I
 
 
 

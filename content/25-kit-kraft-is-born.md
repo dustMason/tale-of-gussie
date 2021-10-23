@@ -11,4 +11,4 @@ After a year or so, we moved from Ingraham St. to the Beverly Hotel on Wilshire,
 
 There were ups and downs in the business. Although mostly ups. I was the bookkeeper for the first 13 years. All I did was add up sales and costs. This was not a job I wanted to keep but I persisted as we got the business going.  Joe grew the business. When someone asked for an item Kit Kraft didn’t stock, Joe would order it. That’s how the inventory grew. He got close to the suppliers. Salespeople would come out and help decide what Joe should stock.  Joe Lenorovitz was one of the early salesmen who became our friend. There were to be lots more such friends over the years as the business took root and thrived.
 
-Kit Kraft on Melrose Avenue, 1948
+![Kit Kraft on Melrose Avenue, 1948](/images/kitkraft-melrose.jpg)
