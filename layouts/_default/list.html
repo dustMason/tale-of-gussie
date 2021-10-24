@@ -6,12 +6,14 @@
 
 {{ .Content }}
 
-<ol>
-  {{ range .Pages }}
-  <li>
-    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-  </li>
-  {{ end }}
-</ol>
+<main>
+  <ol>
+    {{ range .Pages }}
+    <li>
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+    </li>
+    {{ end }}
+  </ol>
+</main>
 
 {{ partial "footer.html" . }}

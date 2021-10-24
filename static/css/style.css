@@ -28,6 +28,12 @@
   font-weight: 500;
 }
 
+@font-face {
+  font-family: "WorkSans";
+  src: url("/fonts/WorkSans-Light.ttf") format("truetype");
+  font-weight: 300;
+}
+
 body {
   max-width: 600px;
   margin: auto;
@@ -43,8 +49,10 @@ body {
   padding: 0;
 }
 
-.menu strong {
+.menu {
   font-family: WorkSans, sans-serif;
+  text-transform: uppercase;
+  font-weight: 300;
 }
 
 .menu li {
@@ -53,11 +61,12 @@ body {
 
 .menu a {
   color: #000;
+  text-decoration: none;
 }
 
 .menu, .article-meta, footer {
   text-align: center;
-  }
+}
 
 h1, h2 {
   font-family: WorkSans, sans-serif;
@@ -65,6 +74,10 @@ h1, h2 {
   font-weight: 500;
   text-align: center;
   line-height: 1.2em;
+}
+
+.article-meta {
+  margin: 3em 0;
 }
 
 .article-meta h2 {
@@ -79,20 +92,12 @@ h1, h2 {
 
 a {
   color: #505050;
-  text-decoration: none;
+  /*text-decoration: none;*/
 }
 
 hr {
   border-style: dashed;
   color: #ddd;
-}
-
-.cover {
-  margin: 0 auto;
-  border-radius: 50%;
-  width: 256px;
-  height: 218px;
-  overflow: hidden;
 }
 
 .next-page, .prev-page {
@@ -126,6 +131,10 @@ figure img {
 img, iframe, video { max-width: 100%; }
 
 main { hyphens: auto; }
+
+main li {
+  margin: 0.5em 0;
+}
 
 blockquote {
   background: #EEEEEE;
