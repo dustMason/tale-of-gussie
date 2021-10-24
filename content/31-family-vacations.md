@@ -3,7 +3,7 @@ Title: Family Vacations
 Weight: 310
 ---
 
-Joe loved to take the family out for occasional Sunday drives so we would all pile into the old station wagon and go out to the mountains of California or the observatory or some other place The kids would sit in the way back (the third row) where the seat faced out the back. They’d wave to cars and trucks. No seat belts in those days.
+Joe loved to take the family out for occasional Sunday drives so we would all pile into the old station wagon and go out to the mountains of California or the observatory or some other place The kids would sit in the way back (the third row) where the seats faced out the back. They’d wave to cars and trucks. No seat belts in those days.
 
 When we took family vacations during the summer, we mostly camped, using a big old canvas tent, old style cots, and flannel/cotton sleeping bags. One year, we drove the family to the World’s Fair in Seattle, camping along the way.  Another year, we rented a cabin near Yosemite.
 

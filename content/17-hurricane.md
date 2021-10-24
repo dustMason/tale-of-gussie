@@ -8,7 +8,9 @@ In 1938, our house was destroyed by one of the worst hurricanes Connecticut had 
 
 At the same time, my brother Abe was fighting his way down the washed-out driveway to find 8-year-old Jake, who was walking home from school. Abe carried little Jake up to the safety of the barn where our family spent the night, sleeping in the hay.  The next day, we moved into the summer cabin where we remained in uncomfortable cramped conditions for the next year while a new house was built.
 
-From Wikipedia: “At 4:00 p.m. on September 21, the great Hurricane of 1938 made landfall just east of New Haven. There was little warning. Winds and storm surge flattened cottages and other buildings all along the shore. It was the deadliest and costliest storm in Connecticut's 350-year history.”
+From [Wikipedia](https://en.wikipedia.org/wiki/1938_New_England_hurricane): 
+
+> At 4:00 p.m. on September 21, the great Hurricane of 1938 made landfall just east of New Haven. There was little warning. Winds and storm surge flattened cottages and other buildings all along the shore. It was the deadliest and costliest storm in Connecticut's 350-year history.
 
 In the days after the hurricane, we tried to rescue as many personal possessions from the house as we could. I carefully picked my way up the rickety and now damaged stairs to get my stuff out of a large chest where I kept my clothes and treasured belongings. I managed to get some of my clothes but that was about it. Two weeks after the hurricane, what remained of the house burned down in an electrical fire. 
 

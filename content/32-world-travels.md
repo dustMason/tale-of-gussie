@@ -5,7 +5,7 @@ Weight: 320
 
 The minute the kids were old enough to fend for themselves, Joe and I started exploring the world. When I worked for the schools, summer was the only time I could travel. After many discussions, planning, and plotting, Joe and I would take off for a few weeks at a time. We visited and biked through many countries. Joe kept a world map in his office, posted on a bulletin board that covers most of one wall. He put pins in all the places he and I explored together.
 
-We visited Australia (Ella and Clayton were living there at the time), the Galapagos, Stornoway, Scotland (for the 100th anniversary of the sinking of the SS Norge - graves of Joe’s relatives),  biking across Europe, tours in  South America, a trip to South Africa to meet up with nephew Jordan – who was on his own multi-year global journey, Scandinavia (biking with the Chaum’s), Easter Island, the three Guianas, safaris in Kenya and Tanganyika, and  Israel (for visits with our close friends, Florence and Herb  Schneider), a cruise around Cuba and many other adventures.
+We visited Australia (Ella and Clayton were living there at the time), the Galapagos, Stornoway, Scotland (for the 100th anniversary of the sinking of the SS Norge - graves of Joe’s relatives),  biking across Europe, tours in  South America, a trip to South Africa to meet up with grandson Jordan – who was on his own multi-year global journey, Scandinavia (biking with the Chaum’s), Easter Island, the three Guianas, safaris in Kenya and Tanganyika, and  Israel (for visits with our close friends, Florence and Herb  Schneider), a cruise around Cuba and many other adventures.
 
 ![1973, Australia](/images/australia.jpg "With Koala pal")
 

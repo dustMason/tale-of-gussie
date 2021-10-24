@@ -11,7 +11,7 @@ For outdoor activities on our honeymoon, Joe was thrilled about riding an old si
 
 ![1945, Honeymoon](/images/honeymoon-2.jpg)
 
-# The Honeymoon is Over
+## The Honeymoon is Over
 
 Honeymoon over, Joe went back to his army station, and I returned to finish out the semester at my teaching job in Norwichtown, a neighborhood in Norwich. Every now and then, I could get to New London to spend a weekend with Joe on base.
 

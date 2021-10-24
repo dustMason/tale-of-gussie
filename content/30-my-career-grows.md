@@ -29,7 +29,7 @@ Amidst everything else, during this time (from 1991 to 2019), I helped establish
 
 As you can see, counseling and therapy – helping kids and adults through emotional issues and traumas has been my passion.
 
-### A few family pictures, 1960’s and 1970’s
+## A few family pictures, 1960’s and 1970’s
 
 ![1967, Studio City](/images/studio-city-1967.jpg "Bill, Ella, Mike in front of the house on Landale St.")
 
