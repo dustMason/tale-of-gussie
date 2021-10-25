@@ -1,10 +1,5 @@
-baseURL = "https://sitkinfamily.com"
-languageCode = "en"
-DefaultContentLanguage = "en"
+baseURL = "https://www.loveandhotchocolate.com"
 title = "Love and Hot Chocolate"
-
-[Params]
-    Subtitle = "The 100 year (and counting) Tale of Gussie Paster Sitkin"
 
 [markup.goldmark.renderer]
   unsafe = true # Allow HTML in md files
