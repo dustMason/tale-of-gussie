@@ -19,7 +19,7 @@ While still working as a counselor, I went back to school yet again to pursue a 
 
 Again, I went back to school to get my EdD (a doctorate in Education). It took a couple of years, a lot of commuting (I had to go to San Diego) and hard work but in 1985 – I did it! Another degree to hang on my wall. I’m pretty sure this is the graduation where I heard my dad cheering for me.
 
-![1985, Los Angeles](/images/edd.jpg "Celebrating my EdD, Lori Compton Geery, Bill (pony tail), me, sister Esther, Charlie Crowley, Ella, Jeff & Leslie Fraser")
+![1985, Los Angeles](/images/edd.jpg "Celebrating my EdD, Lori Compton, Bill (pony tail), me, sister Esther, Charlie Crowley, Ella, Pete & Evie Compton")
 
 ![1989, Los Angeles](/images/on-strike.jpg "Always the political activist, on strike")
 
